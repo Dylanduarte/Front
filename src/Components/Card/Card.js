@@ -29,7 +29,7 @@ export default function Card({info}) {
                     <button className="btn btn-danger btn-eliminar me-2" onClick={()=>eliminarPizza()}>Eliminar Pizza</button>               
                 </div>   
 
-            </div>
+            </div> 
         </div>
 
     )
