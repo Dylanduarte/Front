@@ -27,4 +27,5 @@ import './Pizzas.css'
             })} 
         </div>
     )
-}
+
+  }
